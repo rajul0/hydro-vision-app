@@ -2,7 +2,6 @@ import 'dart:developer';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/material.dart';
-
 import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -30,8 +29,6 @@ class _LoginPageState extends State<LoginPage> {
     'assets/image/watermelon.png',
     'assets/image/melon.png',
   ];
-
-  var _selectedIndex = 0;
 
   // akun data login
   String _username = '';

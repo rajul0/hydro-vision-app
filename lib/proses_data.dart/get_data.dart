@@ -4,10 +4,6 @@ import 'package:intl/intl.dart';
 Future<List<Map>> getRiwayatPompa() async {
   List<Map> listRiwayatPompa = [];
 
-  List<String> tanggal = [];
-  List<String> waktu = [];
-  List<String> nilaiKelembaban = [];
-
   // Mendapatkan referensi ke koleksi "riwayat_kelembaban"
   CollectionReference data =
       FirebaseFirestore.instance.collection('riwayat_pompa');
