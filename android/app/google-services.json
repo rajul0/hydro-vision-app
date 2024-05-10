@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "521170368254",
+    "firebase_url": "https://hydro-vision-x-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hydro-vision-x",
+    "storage_bucket": "hydro-vision-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521170368254:android:39d4e21dfadaa7140257af",
+        "android_client_info": {
+          "package_name": "com.example.hydro_vision_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuI5XNS6vwjDIQgHSaHGV6JBejxOvKfcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
